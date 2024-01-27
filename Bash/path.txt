@@ -1,0 +1,25 @@
+/Users/shawalkhalid
+Andriod data
+AndroidStudioProjects
+Applications
+Bills receipts
+Desktop
+Documents
+Downloads
+Library
+Marriage Data
+Movies
+Music
+PhDdata
+Pictures
+Public
+Windows data
+Zotero
+apk
+comination.py
+import random.py
+java_error_in_studio.hprof
+keyfile.asc
+openzeppelin-contracts
+opt
+path.txt
