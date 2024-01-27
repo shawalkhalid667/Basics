@@ -2,7 +2,7 @@
 
 # Software Engineering Basics
 
-This repository contains materials and resources for the Software Engineering Basics course.
+This repository contains materials and resources for the CS 6705 Software Engineering course.
 
 ## Stand-up Meeting - [Thursday-Feb 25]
 
