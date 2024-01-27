@@ -11,7 +11,7 @@ Participants:
 - Student 2: [Shawal], [shawal@vt.edu]
 
 Overview:
-### What I did.
-### What I need to do next.
-### What is blocking me.
+- What I did.
+- What I need to do next.
+- What is blocking me.
 
