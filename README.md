@@ -1,4 +1,4 @@
-# CS6704 SE Worksho
+# CS6704 SE Workshop
 
 # Software Engineering Basics
 
